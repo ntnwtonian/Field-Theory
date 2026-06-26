@@ -1,5 +1,4 @@
 # Field-Theory
-Field Theory Notes
 Mainly Used References:
 1. Yinxi QFT notes (by ChatGPT 5.5)
 2. David Tong QFT1
